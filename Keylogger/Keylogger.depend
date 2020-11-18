@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1605593693 source:c:\users\parma\desktop\keylogger\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	"Helper.h"
+	"keyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"SendMail.h"
+
+1601816749 c:\users\parma\desktop\keylogger\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1601816374 c:\users\parma\desktop\keylogger\keylogger\helper.h
+	<ctime>
+	<string>
+	<fstream>
+	<sstream>
+
+1601781358 c:\users\parma\desktop\keylogger\keylogger\base64.h
+	<vector>
+	<string>
+
+1601789754 c:\users\parma\desktop\keylogger\keylogger\io.h
+	<string>
+	<fstream>
+	<windows.h>
+	"Helper.h"
+	"Base64.h"
+
+1605596915 c:\users\parma\desktop\keylogger\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h"
+	"Helper.h"
+
